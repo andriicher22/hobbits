@@ -25,9 +25,16 @@ On practice: Build a static html with 4 columns each filled with different sized
 - Create 4 div blocks :Done
 - Stylize them into the center of the page, each taking 15% of the screen :Done
 - Make gaps between them :Done
-- Create a smaller divs into each one of them 
-- Fill them with smaller divs entirely
-- Change the div's height.
+- Create a smaller divs into each one of them :Done
+- Fill them with smaller divs entirely :Done
+- Change the div's height.:Done
+- Dynamically add and remove each habit
+    - Add a button near every column to add the div in this column
+    - Add a button to every habit at the top right corner to remove this habbit
+    - When adding habit pop up windows that asks how long habit lasted
+    - Based on the "how long" chagne the habit height
+- Do the same for the habit columns
+- Sort the habit columns
 
 
 ### Progress

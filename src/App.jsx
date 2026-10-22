@@ -6,17 +6,23 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
       <section id="wrapper">
-        <div className="column">       
+        <div className="column">   
+          <div className='habit'></div>    
         </div>
         <div className="column">
+          <div className='habit'></div> 
         </div>
         <div className="column">
+          <div className='habit'></div> 
+          <div className='habit'></div> 
+          <div className='habit'></div> 
         </div>
         <div className="column">
+          <div className='habit'></div> 
+          <div className='habit'></div> 
         </div>
       </section>
       <section id="spacer"></section>
